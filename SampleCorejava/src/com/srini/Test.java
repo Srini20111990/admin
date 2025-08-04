@@ -3,6 +3,7 @@ package com.srini;
 public class Test {
 
 	public static void main(String[] args) {
-		Employee emp=new Employee();
+		Student s=new Student();
+		
 	}
 }
